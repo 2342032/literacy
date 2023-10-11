@@ -1,3 +1,1 @@
-# literacy
-
-test
+I love [Wikipedia](https://ja.wikipedia.org/)!
