@@ -1,3 +1,8 @@
 em { color: green; }
-th { color: #000000; }
-th { background-color: orange; }
+th {
+  color: white;
+  background-color: orange;
+}
+
+table, th, td {
+  
