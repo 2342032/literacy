@@ -1,4 +1,10 @@
+em { color: green; }
 th {
   color: white;
   background-color: orange;
 }
+th, td {
+  border: 1px solid black;
+}
+table {
+  
