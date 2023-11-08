@@ -6,5 +6,4 @@ th {
 th, td {
   border: 1px solid black;
 }
-table {
-  
+table { border-collapse: collapse; }
